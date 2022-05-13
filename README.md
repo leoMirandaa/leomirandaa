@@ -15,9 +15,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leopoldo-1&" alt="leopoldo-1" /></p>
 
 
-<--!
 ### Hi there 👋
 
+<--!
 **leopoldo-1/leopoldo-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
