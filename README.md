@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Quasar&color=ffffff&logo=Quasar&logoColor=1976D2&label="  height="30 alt="Quasar logo" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=ffffff&logo=React&logoColor=61DAFB&label="  height="30 alt="React logo" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=ReactNative&color=ffffff&logo=React&logoColor=61DAFB&label="  height="30 alt="React logo" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node&color=ffffff&logo=Node.js&logoColor=339933&label="  height="30 alt="Node logo" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TailwindCss&color=ffffff&logo=TailwindCss&logoColor=06B6D4&label="  height="30 alt="React logo" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=ffffff&logo=Express&logoColor=000000&label="  height="30 alt="Node logo" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDb&color=ffffff&logo=MongoDb&logoColor=47A248&label="  height="30 alt="MongoDB logo" />
 </p>
