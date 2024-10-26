@@ -13,6 +13,6 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Shadcn/UI&color=ffffff&logo=ShadcnUI&logoColor=000000&label="  height="32 alt="React logo" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=NextJS&color=ffffff&logo=Next.JS&logoColor=000000&label="  height="32 alt="React logo" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TailwindCss&color=ffffff&logo=TailwindCss&logoColor=06B6D4&label="  height="32 alt="React logo" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=ffffff&logo=Express&logoColor=000000&label="  height="32 alt="Node logo" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=ffffff&logo=Django&logoColor=000000&label="  height="32 alt="Django logo" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDb&color=ffffff&logo=MongoDb&logoColor=47A248&label="  height="32 alt="MongoDB logo" />
 </p>
